@@ -1,0 +1,52 @@
+TITLE: Assizes of Jerusalem
+
+The Assizes of Jerusalem are a collection of numerous medieval legal treatises written in Old French containing the law of the crusader kingdoms of Jerusalem and Cyprus. They were compiled in the thirteenth century, and are the largest collection of surviving medieval laws.
+
+
+== History ==
+As Peter Edbury says: "one group of sources from the Latin East that have long excited the attention of scholars are the legal treatises often known collectively, if somewhat misleadingly, as the Assises of Jerusalem."
+The assizes, or assises in French, survive in written form only from the 13th century, at least a generation after the collapse of the Kingdom of Jerusalem. The earliest laws of the Kingdom were promulgated at the Council of Nablus in 1120, but these laws seem to have fallen out of use and were replaced by the assizes by the 13th century and presumably even earlier.
+Although no laws or court cases survive from the height of the kingdom in the 12th century, the kingdom obviously had laws and a well-developed legal structure. By the 13th century, the development of this structure was lost to memory, but jurists such as Philip of Novara and John of Ibelin recounted the legends that had grown up about the early kingdom. According to them, both the Haute Cour and the burgess court were established in 1099 by Godfrey of Bouillon, who set himself up as judge of the high court. The laws of both were said to have been written down from the very beginning in 1099, and were simply lost when Jerusalem was captured by Saladin in 1187. These laws were kept in a chest in the Church of the Holy Sepulchre, and were thus known in Old French as the "Letres dou Sepulcre." The chest supposedly could have only been opened by the king, the Patriarch of Jerusalem, and the viscount of Jerusalem. Each law, according to Philip, was written on one page, beginning with a large initial illuminated in gold, and with a rubric written in red ink. Philip claimed to have obtained his information from an old knight and jurist named Ralph of Tiberias, and John in turn probably got his information from Philip. Whether or not these legends were true (Edbury, for one, believes they were not), the 13th century jurists envisioned the legal structure of the kingdom to have existed continuously from the original conquest.
+Some of the treatises are said to represent Western feudal law, as interpreted by baronial jurists to weaken royal power, but later scholarship argues that the works present an idealized legal model rather than proof of an existing feudal structure.
+
+
+== Texts ==
+The surviving collections of laws are:
+
+The Livre au Roi.  This is the earliest surviving text, dating from approximately 1200.  It was written in the reign of Queen Isabella I and King Aimery and has a decidedly royalist slant. It is the only text preserving the établissement of King Baldwin II, which allowed the king to disinherit his vassals, bypassing the normal judgement of the High Court. Otherwise its contents are very similar to the other authors.
+Le Livre de Forme de Plait. Philip of Novara's legal treatise, written from a more aristocratic viewpoint, was written in the 1250s. He also wrote a history of the conflict between the Ibelins (his patrons) and the Hohenstaufens on Cyprus and in Acre.
+John of Ibelin. John, count of Jaffa and Ascalon and regent of the Kingdom of Jerusalem in Acre, was a participant in the struggle that Philip recorded elsewhere. From 1264 to 1266 he wrote Livre des assises, the longest legal treatise from the Latin East, and indeed from anywhere in medieval Europe.
+Geoffrey La Tor or Geoffrey le Tort, and James of Ibelin, John's son, independently wrote very small treatises, much less important than the larger works of Philip and John.
+The Livre des Assises de la Cour des Bourgeois. This is a lengthy work detailing the assizes the lower court of the kingdom, the burgess court, established for the non-noble class. Their author is anonymous, but they were also written in the mid-13th century. According to Joshua Prawer they derive from Lo Codi, a Provençal law code itself based on Roman law.
+Also important on its own, although found in the Livre au Roi, Philip, and John, is the Assise sur la ligece, a law promulgated by King Amalric in the 1170s, which effectively made every lord in the kingdom a direct vassal of the king and gave equal voting rights to rear-vassals as much as the greater barons.
+
+
+== Modern editions ==
+All of these works were edited in the mid- to late-19th century by Auguste Arthur, comte de Beugnot, and published in the Recueil des Historiens des Croisades by the Académie des Inscriptions et Belles-Lettres, in two volumes designated "Lois." Also included in the RHC are the 13th- and 14th-century ordinances of the Kingdom of Cyprus; a document concerning succession and regency, written by (or attributed to) John of Brienne, king of Jerusalem; and a document concerning military service, written by (or attributed to) Hugh III of Cyprus. There are also a number of charters, although a far more complete collection of charters was collected in the late 19th and early 20th century by Reinhold Röhricht.
+In the judgement of all later editors, from Maurice Grandclaude in the early 20th century to Edbury today, Beugnot was a very poor editor; fortunately, some, but not all, of these works have been edited separately. A French critical edition of the Livre au Roi was published by Myriam Greilshammer in 1995, and in 2003 Edbury published a critical edition of John of Ibelin's text. No new edition of the Old French assizes of the burgess court has been published since Beugnot's publication in 1843, but in the 15th century they were translated into Greek, and from the Greek manuscripts an English translation has recently been made by Nicholas Coureas.
+Modern historians generally recognize the dangers in attributing 13th-century laws to the 12th-century kingdom, although earlier it was believed that these assizes represented the purest form of medieval European feudalism. In reality the laws probably reflect the practise of neither the 12th or the 13th century, as they were written from scratch in the 13th and were consciously designed to harken back to the less-troubled days of the 12th century, despite the important legal changes that had occurred in the meantime (trial by ordeal, for example, was outlawed in the Fourth Lateran Council of 1215).
+As mentioned above, it is somewhat misleading to call all of these texts the "Assizes of Jerusalem" as if they were written together at the same time; they often contradict one another or omit information that another text has. Together, however, they are the largest collection of laws written in a medieval European state for this period.
+
+
+== Sources and further reading ==
+M. Le Comte Beugnot, ed., Livre de Philippe de Navarre. Recueil des Historiens des Croisades. Lois, tome premier. Paris: Académie Royal des Inscriptions et Belles-Lettres, 1841.
+M. Le Comte Beugnot, ed., Livre des Assises de la Cour des Bourgeois. Recueil des Historiens des Croisades: Lois, tome deuxième. Paris: Académie Royal des Inscriptions et Belles-Lettres, 1843.
+Nicholas Coureas, trans., The Assizes of the Lusignan Kingdom of Cyprus. Nicosia: Cyprus Research Centre, 2002.
+Kωνσταντίνος Σάθας. Ασίζαι του Βασιλείου των Ιεροσολύμων και της Κύπρου. Μεσαιωνική Βιβλιοθήκη Τόμος ΣΤ΄. Εν Βενετία: Τύποις του Φοίνικος (1877).
+Philip of Novara, Le Livre de forme de plait, ed. and trans. Peter W. Edbury. Nicosia: Cyprus Research Centre, 2009.
+John of Ibelin, Le Livre des Assises, ed. Peter W. Edbury. Leiden: Brill, 2003.
+Peter W. Edbury, "Law and Custom in the Latin East: Les Letres dou Sepulcre," Mediterranean Historical Review 10 (1995).
+Peter W. Edbury, "Feudal Obligation in the Latin East," Byzantion 47 (1977).
+Peter W. Edbury, John of Ibelin and the Kingdom of Jerusalem.  Woodbridge, Suffolk: The Boydell Press, 1997.
+Maurice Grandclaude, "Liste des assises remontant au premier royaume de Jérusalem (1099-1187)," in Mélanges Paul Fournier. Paris: Société d'Histoire du Droit, 1929.
+Myriam Greilsammer, ed., Le Livre au Roi. Paris: Académie des Inscriptions et Belles-Lettres, 1995.
+Joshua Prawer, Crusader Institutions. Oxford: Clarendon Press, 1980.
+Reinhold Röhricht, ed., Regesta Regni Hierosolymitani (MXCVII-MCCXCI), with Additamentum. New York: 1893–1904.
+
+
+== References ==
+
+
+== External links ==
+Recueil des historians des croisades: Lois, vol. 1 (at Google Books)
+Recueil des historians des croisades: Lois, vol. 2 (at Google Books)
