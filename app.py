@@ -1,11 +1,14 @@
 from dotenv import load_dotenv
+load_dotenv()
+import os
 import streamlit as st
 
+st.write("Has GEMINI_API_KEY?", bool(os.environ.get("GEMINI_API_KEY")))
+st.write("Working directory:", os.getcwd())
 from rag.retrieve import retrieve, format_context
 from rag.prompts import build
 from rag.gemini_client import ask_gemini
 
-load_dotenv()
 
 st.title("🏰 Kingdom of Jerusalem RAG Explorer")
 
