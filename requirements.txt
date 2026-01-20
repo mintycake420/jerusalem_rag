@@ -1,6 +1,15 @@
-numpy
-faiss-cpu
-sentence-transformers
+# --- Core app ---
+streamlit>=1.31
+python-dotenv>=1.0
+
+# --- Gemini API ---
+google-genai>=0.4.0
+
+# --- RAG / embeddings ---
+sentence-transformers>=2.2
 torch
+numpy>=1.24
 tqdm
-faiss
+
+# --- Vector search ---
+faiss-cpu>=1.7.4
