@@ -1,14 +1,19 @@
 from dotenv import load_dotenv
 load_dotenv()
+
 import os
 import streamlit as st
 
-st.write("Has GEMINI_API_KEY?", bool(os.environ.get("GEMINI_API_KEY")))
+st.write("Has GEMINI_API_KEY?", bool(os.getenv("GEMINI_API_KEY")))
 st.write("Working directory:", os.getcwd())
+
+if not os.getenv("GEMINI_API_KEY"):
+    st.error("GEMINI_API_KEY not found. Put it in a .env file in the project root and restart Streamlit.")
+    st.stop()
+
 from rag.retrieve import retrieve, format_context
 from rag.prompts import build
 from rag.gemini_client import ask_gemini
-
 
 st.title("🏰 Kingdom of Jerusalem RAG Explorer")
 
@@ -34,5 +39,3 @@ if st.button("Answer") and q.strip():
 
     with st.expander("Show full retrieved context"):
         st.text(context)
-# To run this app, use the command:
-# streamlit run app.py
