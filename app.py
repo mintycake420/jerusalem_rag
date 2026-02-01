@@ -1,14 +1,11 @@
-from dotenv import load_dotenv
-load_dotenv()
-
 import os
 import streamlit as st
+from dotenv import load_dotenv
 
-st.write("Has GEMINI_API_KEY?", bool(os.getenv("GEMINI_API_KEY")))
-st.write("Working directory:", os.getcwd())
+load_dotenv()
 
 if not os.getenv("GEMINI_API_KEY"):
-    st.error("GEMINI_API_KEY not found. Put it in a .env file in the project root and restart Streamlit.")
+    st.error("GEMINI_API_KEY not found. Put it in a .env file in the project root.")
     st.stop()
 
 from rag.retrieve import retrieve, format_context

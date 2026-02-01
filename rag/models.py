@@ -1,8 +1,7 @@
 """Data models for Jerusalem RAG v2."""
 
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, asdict
 from typing import Optional
-from datetime import date
 
 
 @dataclass

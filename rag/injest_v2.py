@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 # Load .env file for GEMINI_API_KEY
 load_dotenv()
 
-from .models import ChunkMeta, get_language_name
+from .models import get_language_name
 from .translation import Translator, is_english
 
 

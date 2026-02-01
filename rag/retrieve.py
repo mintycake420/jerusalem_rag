@@ -4,8 +4,8 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-index = faiss.read_index("index/faiss.index")
-chunks = json.loads(open("index/chunks.json", encoding="utf-8").read())
+index = faiss.read_index("data/index/faiss.index")
+chunks = json.loads(open("data/index/chunks.json", encoding="utf-8").read())
 
 def retrieve(question, top_k=4):
     q = model.encode([question], normalize_embeddings=True).astype("float32")
