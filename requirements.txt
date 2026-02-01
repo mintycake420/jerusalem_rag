@@ -13,3 +13,10 @@ tqdm
 
 # --- Vector search ---
 faiss-cpu>=1.7.4
+
+# --- v2: Language detection ---
+langdetect>=1.0.9
+
+# --- v2: Web scraping (for Gallica) ---
+beautifulsoup4>=4.12
+requests>=2.28

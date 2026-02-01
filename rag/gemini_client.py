@@ -7,7 +7,7 @@ def ask_gemini(prompt: str) -> str:
 
     config = types.GenerateContentConfig(
         temperature=0.2,
-        max_output_tokens=600,
+        max_output_tokens=2048,
         top_p=0.9,
         top_k=40
     )
